@@ -1,0 +1,29 @@
+# pinoymovies
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Live TV</name>
+<thumbnail>https://cdn.dribbble.com/users/8485/screenshots/1577303/icon_tv_1x.png</thumbnail>
+<externallink></externallink>
+<fanart>https://services.tegrazone.com/sites/default/files/pcgame-featured-image/LIVE_TV_mfg.jpg</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Youtube</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+<channels>
