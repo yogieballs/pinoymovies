@@ -1,4 +1,3 @@
-# pinoymovies
 <layouttype>thumbnail</layouttype>
 
 
