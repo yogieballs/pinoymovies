@@ -1,6 +1,6 @@
 <item>
 <title>Vevo</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail>http://SimpleKore.com/Tut/VideoAddon/vevo.png</thumbnail>
 <fanart></fanart>
 </item>
