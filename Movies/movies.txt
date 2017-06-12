@@ -7,7 +7,7 @@
 
 <item>
 <title>Luck at Fist Sight</title>
-<link>https://openload.co/embed/vQCekKTNCpk/</link>
+<link>blob:https://estream.to/b327b3b9-f50e-4312-8faa-fc3efb4e0be9</link>
 <thumbnail>https://cdn3.clickthecity.com/images/movies/poster/600/16042.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/mhkeFcCY8HE/maxresdefault.jpg</fanart>
 </item>
