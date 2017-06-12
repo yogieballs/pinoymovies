@@ -1,6 +1,13 @@
 <item>
 <title>Ant Man</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<link>http://dl.hastidownload.com/1/Ant.Man.2015.720p.HDrip.ShAaNiG.mkv</link>
+<thumbnail>http://SimpleKore.com/Tut/VideoAddon/antman.png</thumbnail>
+<fanart>http://imax.elcinema.com/files/movie/big_poster/1010001412/full_ant-man(2).jpg</fanart>
+</item>
+
+<item>
+<title>Luck at Fist Sight</title>
+<link>https://openload.co/embed/vQCekKTNCpk/</link>
+<thumbnail>https://cdn3.clickthecity.com/images/movies/poster/600/16042.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/mhkeFcCY8HE/maxresdefault.jpg</fanart>
 </item>
