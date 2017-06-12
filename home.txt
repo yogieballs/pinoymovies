@@ -4,24 +4,24 @@
 <channels>
 <channel>
 <name>Live TV</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<thumbnail>http://SimpleKore.com/Tut/VideoAddon/livetv.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/yogieballs/pinoymovies/master/LiveTV/live.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
 
 <channel>
 <name>Movies</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<thumbnail>http://SimpleKore.com/Tut/VideoAddon/movies.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/yogieballs/pinoymovies/master/Movies/movies.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
 
 <channel>
 <name>Youtube</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<thumbnail>http://SimpleKore.com/Tut/VideoAddon/youtube.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/yogieballs/pinoymovies/master/Youtube/youtube.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
