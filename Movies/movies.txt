@@ -7,7 +7,7 @@
 
 <item>
 <title>Luck at Fist Sight</title>
-<link>blob:https://estream.to/b327b3b9-f50e-4312-8faa-fc3efb4e0be9</link>
+<link>https://r1---sn-9uxa-qvir.googlevideo.com/videoplayback?id=e8076f1a25db7eff&itag=37&source=webdrive&requiressl=yes&ttl=transient&pl=22&ei=jTI-WYT1OYSAqwW2yqGIAw&driveid=0B0-BTLrZSbqda3J3RWlzUWJ1U2M&mime=video/mp4&lmt=1488015885402344&ip=2604:a880:800:10::22ed:b001&ipbits=0&expire=1497262797&sparams=</link>
 <thumbnail>https://cdn3.clickthecity.com/images/movies/poster/600/16042.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/mhkeFcCY8HE/maxresdefault.jpg</fanart>
 </item>
